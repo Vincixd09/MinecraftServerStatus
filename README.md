@@ -6,7 +6,7 @@
 - Server Version
 - And an approximate ping
 
-# Dependencies [request, asyncio, mcstatus, customtkinter, pillow]
+### Dependencies [request, asyncio, mcstatus, customtkinter, pillow]
 
 # Example
 - In Server IP insert a valid IP, example tntrun.net
